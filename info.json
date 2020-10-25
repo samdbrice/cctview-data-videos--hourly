@@ -1,0 +1,37 @@
+[{
+    "camId": "253",
+    "camCctv": "134",
+    "camName": "FDR Dr @ 23 St",
+    "camOrientation": "South"
+  },
+  {
+    "camId": "689",
+    "camCctv": "640",
+    "camName": "FDR Dr @ 38 St",
+    "camOrientation": "South"
+  },
+  {
+    "camId": "731",
+    "camCctv": "679",
+    "camName": "FDR @ Grand St",
+    "camOrientation": "North"
+  },
+  {
+    "camId": "732",
+    "camCctv": "680",
+    "camName": "FDR @ E 6 St",
+    "camOrientation": "North"
+  },
+  {
+    "camId": "733",
+    "camCctv": "681",
+    "camName": "FDR @ E 53 St",
+    "camOrientation": "North"
+  },
+  {
+    "camId": "735",
+    "camCctv": "683",
+    "camName": "FDR @ 48 St",
+    "camOrientation": "North"
+  }
+]
